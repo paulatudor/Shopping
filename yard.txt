@@ -7,3 +7,6 @@ jndskjfdsf
 mnfdhbmfszb
 
 amend text
+
+text for a new branch
+something to delete
